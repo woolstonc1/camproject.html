@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>History of Computers</title>
+History of Computers
 <p>Cameron Woolston</p>
 <p>CSIT 100</p>
 <p>Webography Project</p>
