@@ -23,6 +23,6 @@
 <li>3. Timeline of Events- subtopic3.html</li>
 </ul>
 </html>
-<p>My Paper- "paper.doc"</p>
+<p>My Paper- "webographypaper.docx"</p>
 <p>My Presentation- "presentation.ppt"</p>
 Picture: <img src="" />
