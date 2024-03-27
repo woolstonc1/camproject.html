@@ -1,9 +1,9 @@
 <html>
 <head>
-History of Computers
-<p>Cameron Woolston</p>
-<p>CSIT 100</p>
-<p>Webography Project</p>
+<p>style="font:Arial bold 70px cursive;color:black;text-align:center;"History of Computers</p>
+<p>style="font: Arial bold 48px cursive;color:black;text-align:left;"Cameron Woolston</p>
+<p>style="font: Arial bold 48px cursive;color:black;text-align:left;"CSIT 100</p>
+<p>style="font: Arial bold 48px cursive;color:black;text-align:left;"Webography Project</p>
 <p>March 27 2024</p>
 </head>
 <body style="background-color:light blue;">
