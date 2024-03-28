@@ -1,0 +1,37 @@
+<html>
+<head>
+<body style="background-color:light purple;">
+<p style="font: Arial bold 70px cursive;color:black;text-align:center;">Subtopic #3</p>
+<p style="font: Arial bold 70px cursive;color:black;text-align:center;"Timeline of Events</p>
+<table align="center" border="1" width="800">
+
+<tr>
+
+<td>URL #1: https://www.computerhistory.org/timeline/1933/</td>
+
+<td>Site Author: Computer History Museum</td>
+
+<td>Abstract: This site provides a detailed timeline of all important computers developed from 1937 to 2015. Provides necessary information such as dates, information about the computers, and the people involved. Outlines how these computers affected the world around them and their contributions to science.</td>
+
+</tr>
+
+</tr>
+
+</table>
+</head>
+</head>
+
+
+<table align="center" border="1" width="800">
+
+<tr>
+
+<td>URL #2: https://pandorafms.com/blog/computer-history/</td>
+
+<td>Site Author: Pandora FMS team</td>
+
+<td>Abstract: Gives another timeline of events in computer history, but with more description and is a good second source. Timeline begins in 1834 and ends in 2018. This timeline is more narrative based and less factual, which helps fill in the gaps of the story that simple facts can not. </td>
+
+</tr>
+
+</table>

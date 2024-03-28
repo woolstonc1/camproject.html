@@ -1,0 +1,37 @@
+<html>
+<head>
+<body style="background-color:light green;">
+<p style="font: Arial bold 70px cursive;color:black;text-align:center;">Subtopic #2</p>
+<p style="font: Arial bold 70px cursive;color:black;text-align:center;"Influential Figures</p>
+<table align="center" border="1" width="800">
+
+<tr>
+
+<td>URL #1: https://www.gcu.edu/blog/engineering-technology/famous-computer-scientists-throughout-history</td>
+
+<td>Site Author: Connor Johnson</td>
+
+<td>Abstract: This site details a list of 8 incredibly influential figures in the computer science field. It particularly focuses on people throughout history chronologically. This site mentions Charles Babbage, the first person to invent an automatic calculator. It also includes Steve Wozniak, a man who is comparable to Steve Jobs.</td>
+
+</tr>
+
+</tr>
+
+</table>
+</head>
+</head>
+
+
+<table align="center" border="1" width="800">
+
+<tr>
+
+<td>URL #2: https://www.uopeople.edu/blog/famous-computer-scientists-inspiring-careers-contributions/</td>
+
+<td>Site Author: University of the People</td>
+
+<td>Abstract: Provides a list of current figures in computer science who are shaping our world today. Gives a list of eight people, with those such as Elon Musk, Mark Zuckerburg, and Bill Gates. Provides short bios on each person and gives links to more information about these people.</td>
+
+</tr>
+
+</table>
